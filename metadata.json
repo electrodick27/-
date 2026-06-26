@@ -1,0 +1,6 @@
+{
+  "name": "ЛОСЬ CRM v2.0",
+  "description": "Производственная CRM ЛОСЬ для управления заказами, операциями, временем станка, складом, инструментом, браком и отчётами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
